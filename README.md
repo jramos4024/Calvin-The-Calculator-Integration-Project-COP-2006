@@ -1,4 +1,4 @@
-Name: Calvin The Calculator
+# Calvin The Calculator
 
 Authors: Joe Ramos, George Alenchery
 
